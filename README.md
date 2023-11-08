@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shonen787" target="blank"><img src="https://img.shields.io/twitter/follow/shonen787?logo=twitter&style=for-the-badge" alt="shonen787" /></a> </p>
 
-- 📫 How to reach me **shonen787@gmail.com**
+
 
 - ⚡ Fun fact **I'm really into Magic the Gathering**
 
