@@ -1,4 +1,4 @@
-<h1 align="center">Cheers! I'm, Chris</h1>
+<h1 align="center">Cheers!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shonen787&label=Profile%20views&color=0e75b6&style=flat" alt="shonen787" /> </p>
 
